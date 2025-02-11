@@ -21,5 +21,10 @@
 
 ## HTML e CSS
 ![Captura de tela 2025-02-10 163408](https://github.com/user-attachments/assets/99e312b0-785c-47af-823f-c91d56157ad5)
+![Captura de tela 2025-02-11 085358](https://github.com/user-attachments/assets/39973183-e923-408a-8401-a94be8a01e5d)
+![Captura de tela 2025-02-11 085524](https://github.com/user-attachments/assets/2da60015-f4ff-4559-84cd-32d3446d698c)
+![Captura de tela 2025-02-11 085609](https://github.com/user-attachments/assets/d6310bfa-2dd7-4cf7-842b-25824c163620)
+![Captura de tela 2025-02-11 085658](https://github.com/user-attachments/assets/1abf2e34-8802-4b60-8909-2c47f84c2da3)
+![Captura de tela 2025-02-11 085735](https://github.com/user-attachments/assets/fad79ac2-9749-4c7c-9ebd-d505f3212c53)
 
  
